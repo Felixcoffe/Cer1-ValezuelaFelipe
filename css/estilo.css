@@ -1,0 +1,14 @@
+.slide img {
+    height: 100vh;
+}
+.accordion-body img{
+    height: 250px;
+    width: 250px;
+}
+.fondo {
+    width: 100%;
+    height: 70vh;
+}
+.t1 {
+    color:rgb(202, 194, 194);
+}
